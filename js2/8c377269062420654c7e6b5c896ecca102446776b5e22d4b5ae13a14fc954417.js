@@ -1,0 +1,4 @@
+var Roblox = Roblox || {};
+Roblox.LangDynamic = Roblox.LangDynamic || {};
+Roblox.LangDynamic["Feature.ExperienceDetails"] = {"PlayButtonText.Unavailable":"Indisponível","PlayButtonText.ActionNeeded":"Entrar","UpdateMaturitySettingModal.Label.Title":"Content not accessible","UpdateMaturitySettingModal.Label.Body":"To access this experience, first update your content maturity setting.","UpdateMaturitySettingModal.Action.Cancel":"Cancel","UpdateMaturitySettingModal.Action.GoToSettings":"Go to Settings","RestrictedUnplayableModal.Label.Title":"Content restricted","RestrictedUnplayableModal.Label.Body":"Only adults ages 17 or older have access to Restricted experiences.","RestrictedUnplayableModal.Action.Ok":"Ok"};
+window.Roblox && window.Roblox.BundleDetector && window.Roblox.BundleDetector.bundleDetected("DynamicLocalizationResourceScript_Feature.ExperienceDetails");
