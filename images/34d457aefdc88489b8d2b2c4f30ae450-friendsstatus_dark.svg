@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 18.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="36"
+   height="144"
+   viewBox="0 0 36 144"
+   enable-background="new 0 0 36 108"
+   xml:space="preserve"
+   id="svg675"
+   sodipodi:docname="friendsstatus_dark.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+   id="defs679" /><sodipodi:namedview
+   id="namedview677"
+   pagecolor="#ffffff"
+   bordercolor="#000000"
+   borderopacity="0.25"
+   inkscape:showpageshadow="2"
+   inkscape:pageopacity="0.0"
+   inkscape:pagecheckerboard="0"
+   inkscape:deskcolor="#d1d1d1"
+   showgrid="false"
+   inkscape:zoom="3.9027777"
+   inkscape:cx="-23.316726"
+   inkscape:cy="97.238436"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   inkscape:window-x="1237"
+   inkscape:window-y="1991"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="Available-7" />
+<g
+   id="label">
+</g>
+<g
+   id="BC">
+</g>
+<g
+   id="brand">
+</g>
+<g
+   id="generic">
+</g>
+<g
+   id="negative">
+</g>
+<g
+   id="creation">
+</g>
+<g
+   id="games">
+</g>
+<g
+   id="Social_and_Interaction">
+</g>
+<g
+   id="Navigation">
+</g>
+<g
+   id="Friends_Status"
+   inkscape:label="Friends_Status"
+   transform="translate(0,0.313167)">
+	<g
+   id="Available">
+		<circle
+   fill="#00a2ff"
+   cx="18"
+   cy="90"
+   r="16"
+   id="circle641" />
+		<g
+   id="g647">
+			
+				<circle
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   cx="18"
+   cy="84"
+   r="5"
+   id="circle643" />
+			<path
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   d="m 18,92 c 0,0 5,0 6,1 1,1 2,6 2,6 0,0 -3.1,2 -8,2 -4.9,0 -8,-2 -8,-2 0,0 1,-5 2,-6 1,-1 6,-1 6,-1 z"
+   id="path645" />
+		</g>
+	</g>
+	<g
+   id="InStudio">
+		<circle
+   fill="#f68802"
+   cx="18"
+   cy="54"
+   r="16"
+   id="circle650" />
+		
+			<polygon
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="8,47 8,52 10,54 15,54 18,57 18,62 20,64 25,64 22,61 22,58 25,58 28,61 28,56 26,54 21,54 18,51 18,46 16,44 11,44 14,47 14,50 11,50 "
+   id="polygon652" />
+	</g>
+	<g
+   id="InGame">
+		<circle
+   fill="#02b757"
+   cx="18"
+   cy="18"
+   r="16"
+   id="circle655" />
+		<g
+   id="g671">
+			
+				<polygon
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   points="16,23 20,23 25,25 29,25 29,14 24.2,11 12,11 7,14 7,25 11,25 "
+   id="polygon657" />
+			
+				<line
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="11"
+   y1="18"
+   x2="15"
+   y2="18"
+   id="line659" />
+			
+				<line
+   fill="none"
+   stroke="#ffffff"
+   stroke-width="2"
+   stroke-linecap="round"
+   stroke-linejoin="round"
+   stroke-miterlimit="10"
+   x1="13"
+   y1="16"
+   x2="13"
+   y2="20"
+   id="line661" />
+			<g
+   id="g665">
+				<path
+   fill="#ffffff"
+   d="m 22,15 c -0.8,0 -1.5,0.7 -1.5,1.5 0,0.8 0.7,1.5 1.5,1.5 0.8,0 1.5,-0.7 1.5,-1.5 C 23.5,15.7 22.8,15 22,15 Z"
+   id="path663" />
+			</g>
+			<g
+   id="g669">
+				<path
+   fill="#ffffff"
+   d="m 25,18 c -0.8,0 -1.5,0.7 -1.5,1.5 0,0.8 0.7,1.5 1.5,1.5 0.8,0 1.5,-0.7 1.5,-1.5 C 26.5,18.7 25.8,18 25,18 Z"
+   id="path667" />
+			</g>
+		</g>
+	</g>
+<g
+   id="Available-7"
+   transform="translate(0,36)"
+   inkscape:label="Invisible">
+		<circle
+   fill="#00a2ff"
+   cx="18"
+   cy="90"
+   r="16"
+   id="circle641-6"
+   style="fill:#000000;fill-opacity:1" />
+		
+	<ellipse
+   cx="18"
+   cy="126.31316"
+   fill="#232527"
+   stroke="#bdbebe"
+   stroke-width="2.66667"
+   id="circle435"
+   rx="14.666667"
+   ry="14.666666"
+   transform="translate(0,-36.313167)" /></g></g>
+</svg>
